@@ -1,3 +1,6 @@
+#This is my calculator script.  It asks you for two numbers and adds them
+#together so that you don't have to.
+
 puts ''
 puts 'This calculator will help you add numbers.' 
 puts 'Please enter the first number.'
